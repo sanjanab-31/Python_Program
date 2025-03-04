@@ -1,5 +1,3 @@
-# Write a Python program to remove spaces from a string without using 
-# inbuilt functions.
 a=input("Enter a string: ")
 b=""
 for i in a:

@@ -1,0 +1,9 @@
+l=[1,2,3,4,5,55]
+l.reverse()
+print(l)
+l.sort()
+print(l)
+l.sort(reverse=False)
+print(l)
+l.sort(reverse=True)
+print(l)

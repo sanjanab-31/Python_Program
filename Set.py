@@ -4,5 +4,5 @@ ds={11,22,33,44,11,3,2,44}
 print(type(ds))
 es={}
 print(type(es))
-ems=set()
-print(type(ems))
+m=set()
+print(type(m))
